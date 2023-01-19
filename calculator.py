@@ -22,5 +22,5 @@ print(res_mul)
 res_div = div(10,20)
 print(res_div)
 
-
+print("hello form prac1")
 
